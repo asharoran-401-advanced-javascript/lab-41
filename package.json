@@ -1,0 +1,19 @@
+{
+  "name": "lab-41",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asharoran-401-advanced-javascript/lab-41.git"
+  },
+  "author": "As-har",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asharoran-401-advanced-javascript/lab-41/issues"
+  },
+  "homepage": "https://github.com/asharoran-401-advanced-javascript/lab-41#readme"
+}
